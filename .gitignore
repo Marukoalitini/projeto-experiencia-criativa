@@ -52,11 +52,8 @@ coverage/
 *.sw?
 
 # WebStorm-specific
-.idea/
 *.ipr
 *.iws
-*.iml
-out/
 
 # Optional npm/Yarn/Pnpm cache
 .npm/
